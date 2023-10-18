@@ -19,6 +19,14 @@
 **Question : What is your budget for purchasing PC components?**
 Very limited, couple hundred
 
+**Question: What are the most important things you look for when purchasing PC components, such as specific parts or just looking for performance? How would you like these compared?**
+
+Browsing: Not looking for specific items due to lack of knowledge, prefers to browse over everything
+
+Opinions and Reviews: Values other buyer's feedback, due to lack of knowledge they would look to others for clarification
+
+Sharing capabilities: Family opinion is important, therefore it's important to be able to easily share links to them to them
+
 **Question : What are your expectations for the performance of your PC?**
 
 **Question : What kind of information would you like the system to provide about each PC component?**
