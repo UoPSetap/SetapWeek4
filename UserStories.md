@@ -16,3 +16,10 @@
 
 - **Installation Assistance:** Provide comprehensive installation instructions or offer an optional installation service. This support caters to users who may lack the technical expertise to install components independently.
 
+**Question : What is your budget for purchasing PC components?**
+Very limited, couple hundred
+
+**Question : What are your expectations for the performance of your PC?**
+
+**Question : What kind of information would you like the system to provide about each PC component?**
+Name , Prices , Vital , OS , Additioanl support e.g. delivery options/set-up help  
