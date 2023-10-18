@@ -12,5 +12,9 @@
 **Question 3: What is your preferred way to learn about new products and services?**
 
 **Question 4: What is your budget for purchasing PC components?**
+Very limited, couple hundred
 
 **Question 5: What are your expectations for the performance of your PC?**
+
+**Question 6: What kind of information would you like the system to provide about each PC component?**
+Name , Prices , Vital , OS , Additioanl support e.g. delivery options/set-up help  
