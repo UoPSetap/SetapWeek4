@@ -7,10 +7,20 @@
 
 **Question 1: What are the most important factors that you consider when purchasing PC components?**
 
+- Fill
+
 **Question 2: What is your level of comfort with using computers and technology?**
+
+- Fill
 
 **Question 3: What is your preferred way to learn about new products and services?**
 
+- Fill
+
 **Question 4: What is your budget for purchasing PC components?**
 
+- Fill
+
 **Question 5: What are your expectations for the performance of your PC?**
+
+- Fill
