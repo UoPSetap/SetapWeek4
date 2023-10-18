@@ -27,7 +27,5 @@ Opinions and Reviews: Values other buyer's feedback, due to lack of knowledge th
 
 Sharing capabilities: Family opinion is important, therefore it's important to be able to easily share links to them to them
 
-**Question : What are your expectations for the performance of your PC?**
-
 **Question : What kind of information would you like the system to provide about each PC component?**
 Name , Prices , Vital , OS , Additioanl support e.g. delivery options/set-up help  
